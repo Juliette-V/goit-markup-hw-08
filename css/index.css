@@ -4,8 +4,8 @@ body {
   font-family: "Roboto";
   font-style: normal;
   min-width: 320px;
-  overflow-x: scroll;
-  width: 100vw;
+  overflow-x: auto;
+  width: 100%;
 }
 body * {
   box-sizing: border-box;
